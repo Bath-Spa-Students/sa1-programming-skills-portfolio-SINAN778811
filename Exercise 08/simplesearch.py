@@ -1,4 +1,4 @@
-# Checking the list of names
+# checking the list of names
 names = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
 
 # Adding the name to search for

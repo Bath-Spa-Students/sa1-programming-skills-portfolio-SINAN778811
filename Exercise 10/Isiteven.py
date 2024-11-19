@@ -14,6 +14,6 @@ def main():
     result = check_even_or_odd(number)
     print(result)
 
-# request the main function
+# request0 the main function
 if __name__:
     main()
